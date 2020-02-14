@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1dd9bdb2-cdba-4d1e-8909-52e9ee6fb01b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Hash_Code_practice_round_2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Hash_Code_practice_round_2020.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/file_handling.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_handling.py" afterDir="false" />
@@ -21,6 +21,7 @@
       <change beforePath="$PROJECT_DIR$/output/c_medium.out" beforeDir="false" afterPath="$PROJECT_DIR$/output/c_medium.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/d_quite_big.out" beforeDir="false" afterPath="$PROJECT_DIR$/output/d_quite_big.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/output/e_also_big.out" beforeDir="false" afterPath="$PROJECT_DIR$/output/e_also_big.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/score.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/score.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/solvers.py" beforeDir="false" afterPath="$PROJECT_DIR$/solvers.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
