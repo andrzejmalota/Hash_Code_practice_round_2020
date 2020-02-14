@@ -42,3 +42,18 @@ def solve_greedy(capacity, pizzas):
             remaining_capacity -= pizzas[i]
 
     return len(selected_pizzas), selected_pizzas
+
+
+def solve_greedy_with_replacement(capacity, pizzas):
+    remaining_capacity = capacity
+    selected_pizzas = []
+
+    for i in range(len(pizzas)):
+        if remaining_capacity - pizzas[i] >= 0:
+            selected_pizzas.append(i)
+            remaining_capacity -= pizzas[i]
+        else:
+            remaining_capacity -= (pizzas[i] - selected_pizzas[-1])
+            selected_pizzas[-1] = i
+
+    return len(selected_pizzas), selected_pizzas

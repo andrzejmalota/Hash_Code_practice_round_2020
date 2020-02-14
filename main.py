@@ -1,5 +1,5 @@
-from Hash_Code_practice_round_2020.file_handling import read, write
-from Hash_Code_practice_round_2020.solvers import solve_dynamic, solve_greedy
+from file_handling import read, write
+from solvers import solve_dynamic, solve_greedy, solve_greedy_with_replacement
 
 
 def main():
@@ -14,7 +14,7 @@ def main():
     # Greedy algorithm
     for input_file in input_files[3:]:
         capacity, pizzas = read(input_file)
-        types_count, selected_pizzas = solve_greedy(capacity, pizzas)
+        types_count, selected_pizzas = solve_greedy_with_replacement(capacity, pizzas)
         write(input_file, types_count, selected_pizzas)
 
 
